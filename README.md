@@ -3,7 +3,7 @@
 
 #####################################\
 # Sentiment Analysis for Amazon Book Reviews
-R Program implementing sentiment analysis of Amazon book reviews, using Naive Bayes Classifier and SVM
+R Program implementing sentiment analysis of Amazon book reviews, using Naive Bayes Classifier and SVM.  Used 10-Core Amazon Book Review Dataset (http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Books_10.json.gz).
 
 #####
 # Prerequisites
@@ -32,10 +32,11 @@ R Program implementing sentiment analysis of Amazon book reviews, using Naive Ba
 
 #####
 # Contents:
+	README.md
 	Train2.R // R Script that runs sentiment analysis (recommend using RStudio to run this)
 	reviewsDataset.json // compressed dataset, containing under 10,000 reviews 
-  originalDataset.json // full dataset containing over  (remote download link: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Books_10.json.gz)
-	README.md
+ 	originalDataset.json // full dataset containing over  (remote download link: 				http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Books_10.json.gz)
+	
 #####
 
 	
