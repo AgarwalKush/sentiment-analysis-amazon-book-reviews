@@ -44,7 +44,6 @@ R Program implementing sentiment analysis of Amazon book reviews, using Naive Ba
 	
 	-> Highlight everything and run. (should output SVM graph and accuracy, then Naive Bayes graph and accuracy, and then Wordcloud.  Final results printed at the end)
 	
-	**Please note** : if you get an error about setting the correct working directory, here is how you can fix it:
-	In RStudio, in the menu bar all the way on top click Session -> Set Working Directory -> Choose Directory.  -> < select directory where this repo is saved locally >  
-  This should clear the error.
+	**NOTE** : if you get an error about setting the correct working directory, here is how you can fix it:
+	In RStudio, in the menu bar all the way on top click Session -> Set Working Directory -> Choose Directory.  -> < select directory where this repo is saved locally >  This should clear the error.
 #####
